@@ -1,3 +1,6 @@
+/*
+ ** created by: jorge.lessa
+ */
 public class Operacao {
 
     private ITipoOperacao tipoOperacao;

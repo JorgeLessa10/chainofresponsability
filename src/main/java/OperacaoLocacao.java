@@ -1,3 +1,6 @@
+/*
+ ** created by: jorge.lessa
+ */
 public class OperacaoLocacao implements ITipoOperacao{
 
     private static OperacaoLocacao operacaoLocacao = new OperacaoLocacao();
